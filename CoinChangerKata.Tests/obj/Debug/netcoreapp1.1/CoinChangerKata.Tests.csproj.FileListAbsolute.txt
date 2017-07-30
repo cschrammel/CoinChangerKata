@@ -1,0 +1,12 @@
+C:\code\CoinChangerKata\CoinChangerKata.Tests\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\code\CoinChangerKata\CoinChangerKata.Tests\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\code\CoinChangerKata\CoinChangerKata.Tests\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\code\CoinChangerKata\CoinChangerKata.Tests\bin\Debug\netcoreapp1.1\CoinChangerKata.Tests.deps.json
+C:\code\CoinChangerKata\CoinChangerKata.Tests\bin\Debug\netcoreapp1.1\CoinChangerKata.Tests.dll
+C:\code\CoinChangerKata\CoinChangerKata.Tests\bin\Debug\netcoreapp1.1\CoinChangerKata.Tests.pdb
+C:\code\CoinChangerKata\CoinChangerKata.Tests\obj\Debug\netcoreapp1.1\CoinChangerKata.Tests.csprojResolveAssemblyReference.cache
+C:\code\CoinChangerKata\CoinChangerKata.Tests\obj\Debug\netcoreapp1.1\CoinChangerKata.Tests.AssemblyInfo.cs
+C:\code\CoinChangerKata\CoinChangerKata.Tests\obj\Debug\netcoreapp1.1\CoinChangerKata.Tests.dll
+C:\code\CoinChangerKata\CoinChangerKata.Tests\obj\Debug\netcoreapp1.1\CoinChangerKata.Tests.pdb
+C:\code\CoinChangerKata\CoinChangerKata.Tests\bin\Debug\netcoreapp1.1\CoinChangerKata.Tests.runtimeconfig.json
+C:\code\CoinChangerKata\CoinChangerKata.Tests\bin\Debug\netcoreapp1.1\CoinChangerKata.Tests.runtimeconfig.dev.json

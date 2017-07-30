@@ -1,0 +1,6 @@
+C:\code\CoinChangerKata\CoinChangerKata\bin\Debug\netstandard1.4\CoinChangerKata.deps.json
+C:\code\CoinChangerKata\CoinChangerKata\bin\Debug\netstandard1.4\CoinChangerKata.dll
+C:\code\CoinChangerKata\CoinChangerKata\bin\Debug\netstandard1.4\CoinChangerKata.pdb
+C:\code\CoinChangerKata\CoinChangerKata\obj\Debug\netstandard1.4\CoinChangerKata.AssemblyInfo.cs
+C:\code\CoinChangerKata\CoinChangerKata\obj\Debug\netstandard1.4\CoinChangerKata.dll
+C:\code\CoinChangerKata\CoinChangerKata\obj\Debug\netstandard1.4\CoinChangerKata.pdb
