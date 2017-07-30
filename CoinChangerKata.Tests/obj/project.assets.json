@@ -2919,6 +2919,13 @@
         "build": {
           "build/netcoreapp1.0/xunit.runner.visualstudio.props": {}
         }
+      },
+      "CoinChangerKata/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v1.6",
+        "dependencies": {
+          "NETStandard.Library": "1.6.1"
+        }
       }
     }
   },
@@ -8509,10 +8516,16 @@
         "xunit.runner.visualstudio.2.2.0.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "CoinChangerKata/1.0.0": {
+      "type": "project",
+      "path": "../CoinChangerKata/CoinChangerKata.csproj",
+      "msbuildProject": "../CoinChangerKata/CoinChangerKata.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v1.1": [
+      "CoinChangerKata >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 15.0.0",
       "Microsoft.NETCore.App >= 1.1.2",
       "xunit >= 2.2.0",
@@ -8535,7 +8548,11 @@
       ],
       "frameworks": {
         "netcoreapp1.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\code\\CoinChangerKata\\CoinChangerKata\\CoinChangerKata.csproj": {
+              "projectPath": "C:\\code\\CoinChangerKata\\CoinChangerKata\\CoinChangerKata.csproj"
+            }
+          }
         }
       }
     },

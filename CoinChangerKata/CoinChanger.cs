@@ -1,7 +1,6 @@
-﻿using System;
-using System.Linq;
+﻿using System.Linq;
 
-namespace CoinChangerKata.Tests
+namespace CoinChangerKata
 {
     public class CoinChanger
     {
