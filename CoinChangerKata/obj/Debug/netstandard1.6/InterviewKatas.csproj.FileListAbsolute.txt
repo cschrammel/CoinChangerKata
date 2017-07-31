@@ -1,0 +1,7 @@
+C:\code\interviews\coinchangerkata\CoinChangerKata\bin\Debug\netstandard1.6\InterviewKatas.deps.json
+C:\code\interviews\coinchangerkata\CoinChangerKata\bin\Debug\netstandard1.6\InterviewKatas.dll
+C:\code\interviews\coinchangerkata\CoinChangerKata\bin\Debug\netstandard1.6\InterviewKatas.pdb
+C:\code\interviews\coinchangerkata\CoinChangerKata\obj\Debug\netstandard1.6\InterviewKatas.csprojResolveAssemblyReference.cache
+C:\code\interviews\coinchangerkata\CoinChangerKata\obj\Debug\netstandard1.6\InterviewKatas.AssemblyInfo.cs
+C:\code\interviews\coinchangerkata\CoinChangerKata\obj\Debug\netstandard1.6\InterviewKatas.dll
+C:\code\interviews\coinchangerkata\CoinChangerKata\obj\Debug\netstandard1.6\InterviewKatas.pdb

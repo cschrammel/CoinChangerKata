@@ -10,3 +10,17 @@ C:\code\CoinChangerKata\CoinChangerKata.Tests\obj\Debug\netcoreapp1.1\CoinChange
 C:\code\CoinChangerKata\CoinChangerKata.Tests\obj\Debug\netcoreapp1.1\CoinChangerKata.Tests.pdb
 C:\code\CoinChangerKata\CoinChangerKata.Tests\bin\Debug\netcoreapp1.1\CoinChangerKata.Tests.runtimeconfig.json
 C:\code\CoinChangerKata\CoinChangerKata.Tests\bin\Debug\netcoreapp1.1\CoinChangerKata.Tests.runtimeconfig.dev.json
+C:\code\interviews\coinchangerkata\CoinChangerKata.Tests\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\code\interviews\coinchangerkata\CoinChangerKata.Tests\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\code\interviews\coinchangerkata\CoinChangerKata.Tests\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\code\interviews\coinchangerkata\CoinChangerKata.Tests\bin\Debug\netcoreapp1.1\CoinChangerKata.Tests.deps.json
+C:\code\interviews\coinchangerkata\CoinChangerKata.Tests\bin\Debug\netcoreapp1.1\CoinChangerKata.Tests.runtimeconfig.json
+C:\code\interviews\coinchangerkata\CoinChangerKata.Tests\bin\Debug\netcoreapp1.1\CoinChangerKata.Tests.runtimeconfig.dev.json
+C:\code\interviews\coinchangerkata\CoinChangerKata.Tests\bin\Debug\netcoreapp1.1\CoinChangerKata.Tests.dll
+C:\code\interviews\coinchangerkata\CoinChangerKata.Tests\bin\Debug\netcoreapp1.1\CoinChangerKata.Tests.pdb
+C:\code\interviews\coinchangerkata\CoinChangerKata.Tests\bin\Debug\netcoreapp1.1\CoinChangerKata.dll
+C:\code\interviews\coinchangerkata\CoinChangerKata.Tests\bin\Debug\netcoreapp1.1\CoinChangerKata.pdb
+C:\code\interviews\coinchangerkata\CoinChangerKata.Tests\obj\Debug\netcoreapp1.1\CoinChangerKata.Tests.csprojResolveAssemblyReference.cache
+C:\code\interviews\coinchangerkata\CoinChangerKata.Tests\obj\Debug\netcoreapp1.1\CoinChangerKata.Tests.AssemblyInfo.cs
+C:\code\interviews\coinchangerkata\CoinChangerKata.Tests\obj\Debug\netcoreapp1.1\CoinChangerKata.Tests.dll
+C:\code\interviews\coinchangerkata\CoinChangerKata.Tests\obj\Debug\netcoreapp1.1\CoinChangerKata.Tests.pdb

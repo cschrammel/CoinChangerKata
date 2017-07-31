@@ -1,6 +1,6 @@
 ﻿namespace InterviewKatas.Tests
 {
-    public class CoinChangerTests
+    public class FizzBuzzTests
     {
 
     }

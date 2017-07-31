@@ -7,12 +7,12 @@
   "targets": {
     ".NETStandard,Version=v1.6": {},
     ".NETStandard,Version=v1.6/": {
-      "coinchangerkata/1.0.0": {
+      "interviewkatas/1.0.0": {
         "dependencies": {
           "NETStandard.Library": "1.6.1"
         },
         "runtime": {
-          "CoinChangerKata.dll": {}
+          "InterviewKatas.dll": {}
         }
       },
       "microsoft.netcore.platforms/1.1.0": {},
@@ -755,7 +755,7 @@
     }
   },
   "libraries": {
-    "coinchangerkata/1.0.0": {
+    "interviewkatas/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

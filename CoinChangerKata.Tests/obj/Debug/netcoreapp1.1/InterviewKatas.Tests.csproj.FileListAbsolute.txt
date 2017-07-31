@@ -1,0 +1,14 @@
+C:\code\interviews\coinchangerkata\CoinChangerKata.Tests\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\code\interviews\coinchangerkata\CoinChangerKata.Tests\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\code\interviews\coinchangerkata\CoinChangerKata.Tests\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\code\interviews\coinchangerkata\CoinChangerKata.Tests\bin\Debug\netcoreapp1.1\InterviewKatas.Tests.deps.json
+C:\code\interviews\coinchangerkata\CoinChangerKata.Tests\bin\Debug\netcoreapp1.1\InterviewKatas.Tests.runtimeconfig.json
+C:\code\interviews\coinchangerkata\CoinChangerKata.Tests\bin\Debug\netcoreapp1.1\InterviewKatas.Tests.runtimeconfig.dev.json
+C:\code\interviews\coinchangerkata\CoinChangerKata.Tests\bin\Debug\netcoreapp1.1\InterviewKatas.Tests.dll
+C:\code\interviews\coinchangerkata\CoinChangerKata.Tests\bin\Debug\netcoreapp1.1\InterviewKatas.Tests.pdb
+C:\code\interviews\coinchangerkata\CoinChangerKata.Tests\bin\Debug\netcoreapp1.1\InterviewKatas.dll
+C:\code\interviews\coinchangerkata\CoinChangerKata.Tests\bin\Debug\netcoreapp1.1\InterviewKatas.pdb
+C:\code\interviews\coinchangerkata\CoinChangerKata.Tests\obj\Debug\netcoreapp1.1\InterviewKatas.Tests.csprojResolveAssemblyReference.cache
+C:\code\interviews\coinchangerkata\CoinChangerKata.Tests\obj\Debug\netcoreapp1.1\InterviewKatas.Tests.AssemblyInfo.cs
+C:\code\interviews\coinchangerkata\CoinChangerKata.Tests\obj\Debug\netcoreapp1.1\InterviewKatas.Tests.dll
+C:\code\interviews\coinchangerkata\CoinChangerKata.Tests\obj\Debug\netcoreapp1.1\InterviewKatas.Tests.pdb

@@ -4,4 +4,8 @@
     <TargetFramework>netstandard1.6</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="CoinChangerKata.v3.ncrunchproject" />
+  </ItemGroup>
+
 </Project>

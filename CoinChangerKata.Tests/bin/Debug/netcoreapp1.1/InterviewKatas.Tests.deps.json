@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v1.1": {
-      "coinchangerkata.tests/1.0.0": {
+      "interviewkatas.tests/1.0.0": {
         "dependencies": {
-          "CoinChangerKata": "1.0.0",
+          "InterviewKatas": "1.0.0",
           "Microsoft.NET.Test.Sdk": "15.0.0",
           "xunit": "2.2.0",
           "xunit.runner.visualstudio": "2.2.0"
         },
         "runtime": {
-          "CoinChangerKata.Tests.dll": {}
+          "InterviewKatas.Tests.dll": {}
         }
       },
       "microsoft.dotnet.platformabstractions/1.1.0": {
@@ -400,15 +400,15 @@
           "Microsoft.TestPlatform.ObjectModel": "15.0.0"
         }
       },
-      "coinchangerkata/1.0.0": {
+      "interviewkatas/1.0.0": {
         "runtime": {
-          "CoinChangerKata.dll": {}
+          "InterviewKatas.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "coinchangerkata.tests/1.0.0": {
+    "interviewkatas.tests/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -588,7 +588,7 @@
       "path": "xunit.runner.visualstudio/2.2.0",
       "hashPath": "xunit.runner.visualstudio.2.2.0.nupkg.sha512"
     },
-    "coinchangerkata/1.0.0": {
+    "interviewkatas/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

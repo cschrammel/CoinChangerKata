@@ -5,3 +5,10 @@ C:\code\CoinChangerKata\CoinChangerKata\obj\Debug\netstandard1.6\CoinChangerKata
 C:\code\CoinChangerKata\CoinChangerKata\obj\Debug\netstandard1.6\CoinChangerKata.dll
 C:\code\CoinChangerKata\CoinChangerKata\obj\Debug\netstandard1.6\CoinChangerKata.pdb
 C:\code\CoinChangerKata\CoinChangerKata\obj\Debug\netstandard1.6\CoinChangerKata.csprojResolveAssemblyReference.cache
+C:\code\interviews\coinchangerkata\CoinChangerKata\bin\Debug\netstandard1.6\CoinChangerKata.deps.json
+C:\code\interviews\coinchangerkata\CoinChangerKata\bin\Debug\netstandard1.6\CoinChangerKata.dll
+C:\code\interviews\coinchangerkata\CoinChangerKata\bin\Debug\netstandard1.6\CoinChangerKata.pdb
+C:\code\interviews\coinchangerkata\CoinChangerKata\obj\Debug\netstandard1.6\CoinChangerKata.csprojResolveAssemblyReference.cache
+C:\code\interviews\coinchangerkata\CoinChangerKata\obj\Debug\netstandard1.6\CoinChangerKata.AssemblyInfo.cs
+C:\code\interviews\coinchangerkata\CoinChangerKata\obj\Debug\netstandard1.6\CoinChangerKata.dll
+C:\code\interviews\coinchangerkata\CoinChangerKata\obj\Debug\netstandard1.6\CoinChangerKata.pdb
